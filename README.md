@@ -1,4 +1,4 @@
-# Anonymous FTP Scanner
+# 💀Anonymous FTP Scanner💀
 
 ## 📜Description
 Anonymous FTP Scanner is a Python script designed to check if an FTP server permits anonymous login.  
@@ -51,7 +51,7 @@ Step 4: After Completing the process now u can run script
 
 5) Test multiple servers or type exit to quit the program.  
 
-## 📂Example Usage  
+## 📂Example OutPut  
 	                       ______
 	                    .-"      "-.
 	                   /  *ViRuS*   \
